@@ -1,0 +1,23 @@
+{
+  "name": "nave_playwrightt_type",
+  "version": "1.0.0",
+  "description": "@Navee7708",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navee7708/Nave_Playwrightt_Type.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Navee7708/Nave_Playwrightt_Type/issues"
+  },
+  "homepage": "https://github.com/Navee7708/Nave_Playwrightt_Type#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
+  }
+}
