@@ -28,3 +28,10 @@ const student = new Student("Alice", 20, "Sophomore");
 // Log the outputs
 console.log(student.greet());
 console.log(student.getGrade());
+
+
+
+// A basic loop example
+for (let i = 1; i <= 5; i++) {
+    console.log(`Iteration number: ${i}`);
+}
