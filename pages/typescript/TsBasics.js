@@ -9,4 +9,4 @@ hobbies = ["reading", "gaming", "coding"];
 console.log(userAge);
 console.log(userName);
 console.log(isUserStudent);
-console.log(hobbies); // Ensure 'hobbies' is declared elsewhere or remove this line if unnecessary
+console.log(hobbies); 

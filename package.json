@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "@Navee7708",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "env=test playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Navee7708/Nave_Playwrightt_Type.git"
